@@ -28,7 +28,7 @@
 
 •   **LocalStorage:**  Хранение настроек видимости колонок на стороне клиента.
 
-•   **Webpack:**
+•   **Webpack:** Cборщик модулей JavaScript 
 
 **Backend:**
 
