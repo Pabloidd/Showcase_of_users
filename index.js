@@ -38,7 +38,7 @@ app.get('/users', (req, res) => {
     });
 });
 
-// Добавьте этот обработчик PUT запросов
+//Обработчик PUT запросов, как один из вариантов решения задачи.
 app.put('/users/:id', (req, res) => {
     const userId = parseInt(req.params.id);
     fs.readFile('data/Users.json', 'utf8', (err, data) => {
