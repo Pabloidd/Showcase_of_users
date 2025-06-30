@@ -51,7 +51,7 @@
 # 1.  **Клонировать репозиторий**
 
 ```
-git clone https://github.com/Pabloidd/Showcase_of_users
+git clone https://github.com/Pabloidd/Showcase_of_users.git
 cd Showcase_of_users
 ```
 # 2. Установить зависимости
